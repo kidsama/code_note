@@ -10,3 +10,11 @@ datetime转字符串 today_str = today.strftime("%Y-%m-%d")
 补时差 today + datetime.timedelta(hours=8)
 
 '''
+from datetime import datetime
+
+text = '2021-02-17'
+y = datetime.strptime(text, '%Y-%m-%d')
+print(y, type(y))
+z = datetime.now()
+print(z, type(z))
+print((z-y).days)
