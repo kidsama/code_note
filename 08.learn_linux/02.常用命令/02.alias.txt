@@ -1,0 +1,4 @@
+alias ll='ls -l' #临时生效，等号左右不能有空格
+vi /etc/bashrc #给全系统设置
+vi ~/.bashrc #给单用户设置
+source /etc/bashrc 或 source ~/.bashrc #使设置生效

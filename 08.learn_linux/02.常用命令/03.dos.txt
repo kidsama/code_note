@@ -1,0 +1,6 @@
+（1）打开文件：vi 文件名
+（2）查看文件格式：
+命令：set ff #查看文件格式dos或unix的字样.
+（3）转化文件格式：dos格式和unix格式强制转化
+命令：set ff=dos #强制转化为dos格式，如果是要转化成unix格式就是 set ff=unix
+保存 :w！

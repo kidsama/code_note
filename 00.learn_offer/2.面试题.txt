@@ -1,0 +1,96 @@
+Python基础
+python几种数据类型，分别可变不可变，不可变但内部可变
+浅拷贝深拷贝实现方式和区别
+__new__()和__init__()区别 魔法方法
+列出几种设计模式（单例）
+python map函数
+生成器
+装饰器
+迭代器
+手写一个装饰器
+正则表达式（手写）匹配ip,邮箱，要知道ip的编码规则
+python垃圾回收，内存管理
+多进程和多线程区别
+GIL锁
+进程的通信方式有哪几种
+介绍下协程，为何比线程还快
+range和xrange的区别
+lambda函数
+封装继承多态
+排序 sort reverse
+python常用模块os, sys, datetime, time, requests, re, calendar, json
+python匹配html tag的贪婪匹配与非贪婪匹配
+try...except
+删除一个list中的重复元素
+>>> l = [1,1,2,3,4,5,4]
+>>> list(set(l))
+[1, 2, 3, 4, 5]
+或者
+d = {}
+for x in mylist:
+    d[x] = 1
+mylist = list(d.keys())
+python程序中文输出问题怎么解决？
+用encode和decode，或者在文件开头加上
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
+python去空格方法
+导入顺序，自带库，第三方库，自己写的库
+python执行shell命令
+
+
+算法
+手写快速排序，冒泡排序，选择排序，插入排序，堆排
+https://blog.csdn.net/mxz19901102/article/details/80087596
+二分查找
+分析时间复杂度，空间复杂度。。。
+单向链表长度未知，如何判断其中是否有环
+一亿个数中取最大的100个
+
+网络
+网络协议分层
+TCP/IP分别在模型的那一层
+socket长连接短连接
+TCP UDP区别
+三次握手四次挥手
+http一次连接的全过程：从用户发起request到用户接收到response
+http连接方式
+get和post的区别，还有其他请求方式吗
+状态码：200、403、404、504
+
+数据库
+mysql锁有几种；死锁是怎么产生的
+mysql的char，varchar，text的区别
+了解join吗？有几种，有何区别： left join
+索引类型有几种（BTree索引和hash索引的区别）
+查询语句优化知识（mysql分页太慢）
+nosql了解吗，和关系数据库的区别
+redis有几种常用存储类型
+redis存和取的方法
+
+linux
+git、SVN相关命令
+github强制回滚命令
+文件读取权限
+8421码
+磁盘空间，内存
+查看端口有没有被占用
+yum命令格式
+linux根目录各个目录是做什么的
+软件一般装在哪
+docker相关
+
+
+
+Django的MVC/MTV模式
+缓存怎么用
+介绍几种中间件，分别是干嘛的
+session和cookie的联系和区别
+为什么说session是安全的
+uWSGI和Nginx的作用
+https://www.cnblogs.com/chongdongxiaoyu/p/9054847.html
+反射
+
+
+

@@ -1,0 +1,5 @@
+mysql -u root -p
+mysql>use mysql;
+mysql>update user set host = '当前IP' where user = 'root';    //这个命令执行错误时，可能会报ERROR 1062 (23000): Duplicate entry '%-root' for key 1；这个错误，不用管它。
+mysql>flush privileges;
+mysql>select host, user from user;

@@ -1,0 +1,35 @@
+常用查找方法
+
+find_element_by_id					按ID来找
+find_elements_by_id					按ID来找
+find_element_by_xpath				按XPath来找
+find_elements_by_xpath				按XPath来找
+find_element_by_link_text			按文本内容来找
+find_elements_by_link_text			按文本内容来找
+find_element_by_partial_link_text
+find_elements_by_partial_link_text
+find_element_by_name				按name来找
+find_elements_by_name				按name来找
+find_element_by_tag_name			按标签名来找
+find_elements_by_tag_name			按标签名来找
+find_element_by_class_name			按class名来找
+find_elements_by_class_name			按class名来找
+find_element_by_css_selector		按样式来找
+find_elements_by_css_selector		按样式来找
+
+
+# inputElement1 = driver.find_element_by_id('login_username')  # 获取输入框
+# inputElement2 = driver.find_element_by_id('login_password')  # 获取输入框
+# # searchButton = driver.find_element_by_id('search_button_homepage')  # 获取搜索按钮
+#
+# inputElement1.send_keys(u"python")  # 输入框输入搜索内容
+# inputElement2.send_keys("12312124")  # 输入框输入搜索内容
+
+# 选中下拉框中的
+select_by_index(index)
+select_by_value(value)
+select_by_visible_text(text)
+
+index从 0 开始
+value是option标签的一个属性值, 并不是显示在下拉框中的值
+visible_text是在option标签中间的值, 是显示在下拉框的值

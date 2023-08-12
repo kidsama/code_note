@@ -1,0 +1,1 @@
+es = db_session.query(OtherEquipment.device_type, func.group_concat(OtherEquipment.id)).group_by(OtherEquipment.device_type).all()

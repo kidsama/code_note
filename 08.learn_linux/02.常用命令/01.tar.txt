@@ -1,0 +1,2 @@
+tar -czvf 压缩包名称.tar.gz 要打包的目录
+tar -xzvf 压缩包名称.tar.gz
