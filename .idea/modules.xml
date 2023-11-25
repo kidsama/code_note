@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../aggregator_server/.idea/aggregator_server.iml" filepath="$PROJECT_DIR$/../aggregator_server/.idea/aggregator_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code_note.iml" filepath="$PROJECT_DIR$/.idea/code_note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../code_note_kylin/.idea/code_note_kylin.iml" filepath="$PROJECT_DIR$/../code_note_kylin/.idea/code_note_kylin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lsw_tool/.idea/lsw_tool.iml" filepath="$PROJECT_DIR$/../lsw_tool/.idea/lsw_tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flaskProject1/.idea/lsw_tools.iml" filepath="$PROJECT_DIR$/../flaskProject1/.idea/lsw_tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../monitor/.idea/monitor.iml" filepath="$PROJECT_DIR$/../monitor/.idea/monitor.iml" />
+      <module fileurl="file://$USER_HOME$/clone_node/deploy/monitor-deploy/.idea/monitor-deploy.iml" filepath="$USER_HOME$/clone_node/deploy/monitor-deploy/.idea/monitor-deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oserver/.idea/oserver.iml" filepath="$PROJECT_DIR$/../oserver/.idea/oserver.iml" />
+    </modules>
+  </component>
+</project>
