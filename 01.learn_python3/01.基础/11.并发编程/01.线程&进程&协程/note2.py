@@ -1,3 +1,6 @@
+"""
+多线程
+"""
 import threading
 import time
 

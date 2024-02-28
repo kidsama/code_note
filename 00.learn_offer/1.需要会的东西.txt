@@ -48,6 +48,7 @@ k8s
 
 其它
 TCP/IP
+NTP/DNS/DHCP
 HTTP：HTTP协议在哪一层
 URL/URI
 Restful API

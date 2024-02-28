@@ -1,0 +1,586 @@
+{
+  "bookmarkGroups": [
+    {
+      "id": "default",
+      "title": "default",
+      "bookmarkIds": [
+        "TlTPHqZ",
+        "-cBsJOt",
+        "PXA0BDD",
+        "2ZklwQi",
+        "amwLuPZ",
+        "D_hPNIN",
+        "BR5Rixf",
+        "m_UKakU",
+        "kjZzjw3",
+        "itAIFS-",
+        "1ynZYLW",
+        "zX5YUzh",
+        "IlyC_Bu",
+        "V55cQdT",
+        "mDA4VWK",
+        "d2dWkZy",
+        "9MQyKUT",
+        "mNQjVuv",
+        "v0j4YZp",
+        "ohYNFS3",
+        "zzRgAvq",
+        "eiofXw_",
+        "FF1Dgna",
+        "71KhOAx",
+        "NF-cJU1",
+        "d8YyIst",
+        "GN7bInm",
+        "PZDGjlZ"
+      ],
+      "bookmarkGroupIds": []
+    }
+  ],
+  "bookmarks": [
+    {
+      "id": "-cBsJOt",
+      "title": "",
+      "color": "#d73a49",
+      "host": "172.20.186.231",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "1ynZYLW",
+      "title": "",
+      "color": "#0366d6",
+      "host": "172.17.121.241",
+      "username": "root",
+      "authType": "password",
+      "password": "Bluedog123.",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "2ZklwQi",
+      "title": "",
+      "color": "#0366d6",
+      "host": "172.20.186.241",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "71KhOAx",
+      "title": "太保",
+      "host": "10.41.98.47",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": ""
+    },
+    {
+      "id": "9MQyKUT",
+      "title": "",
+      "color": "#ffd33d",
+      "host": "172.20.144.168",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "BR5Rixf",
+      "title": "",
+      "host": "172.17.121.81",
+      "username": "root",
+      "authType": "password",
+      "password": "Bluedog123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": ""
+    },
+    {
+      "id": "D_hPNIN",
+      "title": "",
+      "color": "#ffd33d",
+      "host": "10.41.116.250",
+      "username": "root",
+      "authType": "password",
+      "password": "Bluedog123.",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "FF1Dgna",
+      "title": "",
+      "host": "172.20.186.68",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": ""
+    },
+    {
+      "id": "GN7bInm",
+      "title": "",
+      "color": "#6f42c1",
+      "host": "10.41.116.209",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "IlyC_Bu",
+      "title": "",
+      "host": "172.20.43.73",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": "",
+      "color": "#6a737d",
+      "runScripts": [
+        {}
+      ],
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "PXA0BDD",
+      "title": "",
+      "color": "#6f42c1",
+      "host": "10.41.120.142",
+      "username": "liu",
+      "authType": "password",
+      "password": "123..123",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "PZDGjlZ",
+      "title": "",
+      "host": "10.41.116.233",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": ""
+    },
+    {
+      "id": "TlTPHqZ",
+      "title": "",
+      "color": "#d73a49",
+      "host": "10.41.116.209",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "V55cQdT",
+      "title": "",
+      "host": "172.20.43.74",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": "",
+      "color": "#6a737d",
+      "runScripts": [
+        {}
+      ],
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "amwLuPZ",
+      "title": "",
+      "color": "#d73a49",
+      "host": "10.41.116.212",
+      "username": "root",
+      "authType": "password",
+      "password": "Bluedog123.",
+      "port": 22,
+      "description": "xxx",
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "d2dWkZy",
+      "title": "",
+      "host": "172.20.144.120",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": ""
+    },
+    {
+      "id": "d8YyIst",
+      "title": "",
+      "host": "10.41.116.239",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": ""
+    },
+    {
+      "id": "eiofXw_",
+      "title": "",
+      "color": "#28a745",
+      "host": "172.20.186.89",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "itAIFS-",
+      "title": "",
+      "color": "#24292e",
+      "host": "172.17.121.94",
+      "username": "root",
+      "authType": "password",
+      "password": "Kuf@2023",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "kjZzjw3",
+      "title": "",
+      "host": "172.17.121.92",
+      "username": "root",
+      "authType": "password",
+      "password": "Bluedog123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": ""
+    },
+    {
+      "id": "mDA4VWK",
+      "title": "",
+      "host": "172.20.108.33",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "description": "",
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": "",
+      "color": "#ffab4a",
+      "runScripts": [
+        {}
+      ],
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "mNQjVuv",
+      "title": "",
+      "host": "172.20.144.169",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": ""
+    },
+    {
+      "id": "m_UKakU",
+      "title": "",
+      "host": "172.17.121.91",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": ""
+    },
+    {
+      "id": "ohYNFS3",
+      "title": "",
+      "color": "#ffd33d",
+      "host": "172.20.186.85",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "v0j4YZp",
+      "title": "",
+      "host": "172.20.186.69",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "loginScriptDelay": 500,
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "sshTunnel": "",
+      "proxy": ""
+    },
+    {
+      "id": "zX5YUzh",
+      "title": "",
+      "color": "#ffd33d",
+      "host": "172.20.4.32",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    },
+    {
+      "id": "zzRgAvq",
+      "title": "",
+      "color": "#28a745",
+      "host": "172.20.186.86",
+      "username": "root",
+      "authType": "password",
+      "password": "kylincloud@123.",
+      "port": 22,
+      "runScripts": [
+        {}
+      ],
+      "encode": "utf-8",
+      "enableSsh": true,
+      "envLang": "en_US.UTF-8",
+      "term": "xterm-256color",
+      "displayRaw": false,
+      "sshTunnels": [
+        {}
+      ],
+      "connectionHoppings": []
+    }
+  ]
+}

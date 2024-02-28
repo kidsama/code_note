@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$USER_HOME$/clone_node/deploy/monitor-deploy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/18.learn_vue/lowcode/tmagic-editor" vcs="Git" />
   </component>
 </project>

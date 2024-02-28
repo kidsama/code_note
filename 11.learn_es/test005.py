@@ -16,7 +16,7 @@ response = client.search(index=index, body=query)
 
 # 处理搜索结果
 for hit in response['hits']['hits']:
-  print(hit['_source'])
+    print(hit['_source'])
 
 # 关闭 Elasticsearch 客户端连接
 client.close()
