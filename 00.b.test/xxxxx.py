@@ -1,9 +1,8 @@
-def func1():
-    try:
-        aaa = 1/0
-        return "aaa"
-    except Exception as e:
-        pass
+def print_person_info(name, age, country):
+    print(f"姓名: {name}")
+    print(f"年龄: {age}")
+    print(f"国家: {country}")
 
-xxx = func1()
-print("xxx:", xxx)
+person = {"name": "小明", "age": 20, "country": "中国"}
+
+print_person_info(**person)

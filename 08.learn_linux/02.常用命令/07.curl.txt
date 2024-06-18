@@ -1,0 +1,33 @@
+curl -X POST \
+  'http://example.com/api/resource' \
+  -H 'Content-Type: application/json' \
+  -d '{"key1": "value1", "key2": "value2"}'
+
+或
+
+curl -X POST \
+  'http://example.com/form-submit' \
+  -d 'param1=value1&param2=value2'
+
+# 查询所有角色
+curl -X POST 'http://kuas-authorization-api-svc.kuas.svc.cluster.local:8888/v1/role/get-roles-with-conditions' -H 'Content-Type: application/json' -d '{"current_page": 1, "page_size": 99999, "app_id": "50085276810219520"}'
+
+# 查询所有用户
+curl -X POST 'http://kuas-user-api-svc.kuas.svc.cluster.local:8889/v1/user/get-users-with-conditions' -H 'Content-Type: application/json' -d '{"current_page": 1, "page_size": 99999, "domain": "50085276810219520"}'
+
+
+
+# 修改角色
+curl -X POST 'http://kuas-authorization-api-svc.kuas.svc.cluster.local:8888/v1/role/update-role' -H 'Content-Type: application/json' -H 'X-Kuas-User-Id: 000000000000000000' -d '{"kuid": "246184699666370560", "name": "liushaowei", "display_name": "liushaowei", "description": "intro"}' --max-time 1
+curl -X POST 'http://kuas-authorization-api-svc.kuas.svc.cluster.local:8888/v1/role/update-role' -H 'Content-Type: application/json' -H 'X-Kuas-User-Id: 000000000000000000' -d '{"kuid": "246184699666370560", "name": "liushaowei", "display_name": "liushaowei", "description": "intro"}' --connect-timeout 1
+
+
+
+
+
+curl -X POST 'http://kuas-authorization-api:8888/v1/role/get-roles-with-conditions' -H 'Content-Type: application/json' -d '{"current_page": 1, "page_size": 99999, "app_id": "50085276810219520"}'
+
+curl -X POST 'http://kuas-authorization-api:8888/v1/role/get-role-detail' -H 'Content-Type: application/json' -d '{"kuid": "242908271751467008"}'
+
+
+curl -X GET 'http://127.0.0.1:5000/getUserLevel?kylin_unique_id=1'
